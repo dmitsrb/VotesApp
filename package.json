@@ -1,0 +1,19 @@
+{
+  "name": "votes-app",
+  "version": "1.0.0",
+  "description": "Application for organizing live votes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitsrb/VotesApp.git"
+  },
+  "author": "Dmitry Serebrennikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitsrb/VotesApp/issues"
+  },
+  "homepage": "https://github.com/dmitsrb/VotesApp#readme"
+}
